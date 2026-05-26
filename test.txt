@@ -1,1 +1,2 @@
 Hello MFG Project
+Second line dynamic!
